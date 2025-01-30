@@ -132,6 +132,10 @@ body {
     animation: fade-in 1s ease-out forwards;
     animation-delay: 3.2s;
 }
+footer {
+    text-align: center;
+    padding-top:50px;
+}
 
 /* KEYFRAME ANIMATIONS */
 @keyframes show-right {
