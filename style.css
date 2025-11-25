@@ -152,5 +152,26 @@ footer {
     }
 }
 
+@media (max-width: 600px) {
+        .header {
+            font-size: 0.8em;
+        }
+
+        nav a {
+            display: block;
+            margin: 10px 0;
+        }
+        .navbar a {
+            font-size: 10px;
+            color: #fff;
+            font-weight: 500;
+            margin: 0 10px;
+            transition: .3s;
+        }
+
+}
+
+
+
 
 
